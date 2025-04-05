@@ -1,0 +1,11 @@
+Список команд Рукод:
+help
+бу!
+print
+logo
+open
+count
+searh
+openrucodefile
+readfile
+if
